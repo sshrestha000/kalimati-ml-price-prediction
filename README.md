@@ -24,7 +24,6 @@ Random Forest outperforms Linear Regression on all metrics.
 kalimati-ml-price-prediction/
 ├── price_prediction_v2.py    # Main ML script
 ├── README.md
-└── .gitignore
 ```
 
 ## Tech Stack
